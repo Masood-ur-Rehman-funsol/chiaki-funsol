@@ -1,0 +1,22 @@
+# Ignore Gradle files
+.gradle/
+**/build/
+**/.idea/
+**/.DS_Store
+**/local.properties
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore compiled files
+*.class
+*.jar
+*.apk
+*.aab
+
+# Ignore dependency caches
+**/.cxx/
